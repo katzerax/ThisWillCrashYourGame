@@ -14,7 +14,7 @@ In the Mod Manager tab, under 3rd Party Mods select "Import ZIP". Navigate to th
 ## Installation Method 2: Manual
 Requires GDWeave https://github.com/NotNite/GDWeave
 
-Download the latest release KMod.zip file: https://github.com/katzerax/ThisWillCrashYourGame/releases/latest/download/ThisWillCrashYourGame.zip
+Download the latest release ThisWillCrashYourGame.zip file: https://github.com/katzerax/ThisWillCrashYourGame/releases/latest/download/ThisWillCrashYourGame.zip
 
 Navigate to your GDWeave installation, under GDWeave/mods/ place the unzipped folder containing the ThisWillCrashYourGame.pck and manifest.json file within it.
 
