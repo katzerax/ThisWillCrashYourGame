@@ -7,7 +7,7 @@ Download Hook Line & Sinker: https://github.com/pyoidzzz/HLSRewritten
 
 Follow the steps to set game installation path, install .NET 8.0 and then install GDWeave. 
 
-In the Mod Manager tab, select ThisWilLCrashYourGame and click install.
+In the Mod Manager tab, select ThisWillCrashYourGame and click install.
 
 ## Installation Method 2: Manual
 Requires GDWeave https://github.com/NotNite/GDWeave
