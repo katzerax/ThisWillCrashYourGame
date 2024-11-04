@@ -2,14 +2,12 @@
 Webfishing mod that "crashes" (closes) the game. Don't install it.
 
 Heres how to install it:
-## Installation Method 1: Hook Line & Sinker [3rd party]
+## Installation Method 1: Hook Line & Sinker
 Download Hook Line & Sinker: https://github.com/pyoidzzz/HLSRewritten
-
-Download the latest release ThisWillCrashYourGame.zip file: https://github.com/katzerax/ThisWillCrashYourGame/releases/latest/download/ThisWillCrashYourGame.zip
 
 Follow the steps to set game installation path, install .NET 8.0 and then install GDWeave. 
 
-In the Mod Manager tab, under 3rd Party Mods select "Import ZIP". Navigate to the downloaded ThisWillCrashYourGame.zip.
+In the Mod Manager tab, select ThisWilLCrashYourGame and click install.
 
 ## Installation Method 2: Manual
 Requires GDWeave https://github.com/NotNite/GDWeave
